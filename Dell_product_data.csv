@@ -1,0 +1,754 @@
+﻿user_id,product_uniq_Id,product_name,item_description,Weight,Price_euros,warranty_period(Days)
+1,399bb9009c2a058755faa7b1889fd2c5,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i3 6006U 2GHz 256GB SSD AMD Radeon R5 M430 Windows 10,3.2,498.9,1
+2,66a7a3ea1f063e4ad0f35eccb5d90aaf,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i7 7500U 2.7GHz 256GB SSD AMD Radeon R5 M430 Windows 10,3.2,745,1
+3,eeb4ac09dffafbae6c754c4e17e54563,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR-SDRAM_(DDRRAM) 13.3 Intel Core i5 8250U 1.6GHz 128GB SSD Intel UHD Graphics 620 Windows 10,1.22,979,1
+4,efc9a9dbb1aef23874149134c2993b68,Dell Inspiron 5379 2 in 1 Convertible,Dell Inspiron 5379 2 in 1 Convertible DDR-SDRAM_(DDRRAM) 13.3 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.62,819,1
+5,693ba00b2a5afe2846f0e525e2d0e4a4,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i3 6006U 2GHz 1TB HDD Intel HD Graphics 520 Windows 10,2.3,418.64,1
+6,451857d0c1385a1466c3c846fdbf6ab1,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i5 8250U 1.6GHz 256GB SSD AMD Radeon 530 Windows 10,2.2,800,1
+7,774882770c29f099941ca4f463f073cd,Dell Latitude 5590 Ultrabook,Dell Latitude 5590 Ultrabook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i7 8650U 1.9GHz 256GB SSD + 256GB SSD Intel UHD Graphics 620 Windows 10,1.88,1298,1
+8,b502c36b512e6f0475b08c0b7ce1ba86,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR-SDRAM_(DDRRAM) 13.3 Intel Core i7 8550U 1.8GHz 512GB SSD Intel UHD Graphics 620 Windows 10,1.2,1869,1
+9,27e8533c619e2c6514b37a16d042879a,Dell Inspiron 5770 Notebook,Dell Inspiron 5770 Notebook DDR2 17.3 Intel Core i5 8250U 1.6GHz 128GB SSD + 1TB HDD AMD Radeon 530 Windows 10,2.8,979,1
+10,3c13e2a052bcd67fb16315e8cf8de0ca,Dell Inspiron 7577 Gaming,Dell Inspiron 7577 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1060 Windows 10,2.65,1499,1
+11,adc9187107bb415351ce11db8731f0b2,Dell Inspiron 7773 2 in 1 Convertible,Dell Inspiron 7773 2 in 1 Convertible DDR2 17.3 Intel Core i5 8250U 1.6GHz 1TB HDD Nvidia GeForce 150MX Windows 10,2.77,999,1
+12,2f48d2d8715e14c8db96bdc61fa4ebec,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 256GB SSD AMD Radeon R5 M430 Windows 10,2.3,639,2
+13,4d7b3b558563dc98c144598755ffc77d,Dell Inspiron 3576 Notebook,Dell Inspiron 3576 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD AMD Radeon 520 Windows 10,2.13,767.8,1
+14,265a876cafb7572dd2b2d18ed85623a8,Dell Inspiron 5770 Notebook,Dell Inspiron 5770 Notebook DDR2 17.3 Intel Core i7 8550U 1.8GHz 256GB SSD + 2TB HDD AMD Radeon 530 Windows 10,2.8,1299,1
+15,faf870468a198e03a6c52f8bc3858466,Dell Vostro 5471 Ultrabook,Dell Vostro 5471 Ultrabook DDR2 14 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.7,879,1
+16,6e93ad0f9f9f357694e6f4e139ea1f2b,Dell Inspiron 5370 Ultrabook,Dell Inspiron 5370 Ultrabook DDR2 13.3 Intel Core i7 8550U 1.8GHz 256GB SSD AMD Radeon 530 Windows 10,1.4,955,1
+17,193bbc5ac833527b38df3f6c88acdb56,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD AMD Radeon 530 Windows 10,2.2,870,1
+18,6553b6b4f5a7e87832ee5c7dd64ed098,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 128GB SSD + 1TB HDD Intel UHD Graphics 620 Windows 10,2.02,855,3
+19,1321610d2378ce43a3a3849a31904bec,Dell Latitude 5590 Ultrabook,Dell Latitude 5590 Ultrabook DDR2 15.6 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.88,1096.16,1
+20,82c86a4d24dce5e14303033d7b658b78,Dell Inspiron 7577 Gaming,Dell Inspiron 7577 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 128GB SSD + 1TB HDD Nvidia GeForce GTX 1050 Ti Windows 10,2.65,1349,1
+21,d82015ffbf4cd54b0edfb890002971f3,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i7 8550U 1.8GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.21,1649,1
+22,27ee4df540bb65025c70be7e1052c8f0,Dell Inspiron 7577 Gaming,Dell Inspiron 7577 Gaming DDR2 15.6 Intel Core i5 7300HQ 2.5GHz 256GB SSD Nvidia GeForce GTX 1060 Windows 10,2.65,1195,3
+23,4832387affc268b3c9d6cca70dbdbcb4,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 1TB HDD AMD Radeon R5 M430 Linux,2.2,599.9,3
+24,5483f67f50a97a8dd7f404f80eab75e1,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i3 6006U 2GHz 256GB SSD AMD Radeon R5 M430 Linux,2.2,485,3
+25,9069f341e27a58e956b9aa3920738ecf,Dell Inspiron 3576 Notebook,Dell Inspiron 3576 Notebook DDR2 15.6 Intel Core i5 8250U 1.6GHz 1TB HDD AMD Radeon 520 Linux,2.2,647,1
+26,d34cc15af5c365e8e4505fdbaec1bfbb,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i7 7560U 2.4GHz 256GB SSD Intel Iris Plus Graphics 640 Windows 10,1.23,1379,1
+27,d0777b6e4b75a1c3edac4547132635c6,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.21,1629,1
+28,37a6a6e890884bb482d93c8e9291bbe8,Dell Inspiron 7570 Notebook,Dell Inspiron 7570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD + 1TB HDD Nvidia GeForce 940MX Windows 10,2.16,1130.33,1
+29,90f3d45ebaa97aabd593470630268c84,Dell Inspiron 5770 Notebook,Dell Inspiron 5770 Notebook DDR2 17.3 Intel Core i7 8550U 1.8GHz 256GB SSD + 2TB HDD AMD Radeon 530 Windows 10,2.8,1396,1
+30,3d1a393e41fa6167e39445e5be0a6c92,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 1TB HDD AMD Radeon R7 M445 Windows 10,2.36,638.99,1
+31,9082da93038be5d10eba70564f6d30bd,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i3 6006U 2GHz 1TB HDD AMD Radeon R5 M430 Windows 10,2.2,449,1
+32,dbf306088532d98d12f7da924cb4e87b,Dell Inspiron 5577 Gaming,Dell Inspiron 5577 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 512GB SSD Nvidia GeForce GTX 1050 Windows 10,2.56,1249.26,1
+33,4a1c57400118edff461f32f6116ea472,Dell Inspiron 7567 Gaming,Dell Inspiron 7567 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 1.0TB Hybrid Nvidia GeForce GTX 1050 Windows 10,2.62,899,1
+34,cecf18d17ddbb4783cb2fb70a0c4206e,Dell Inspiron 5579 2 in 1 Convertible,Dell Inspiron 5579 2 in 1 Convertible DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.56,1049,1
+35,c2cbb52a1cbbd9cbd15af7e1941b8258,Dell Inspiron 3576 Notebook,Dell Inspiron 3576 Notebook DDR2 15.6 Intel Core i5 8250U 1.6GHz 256GB SSD AMD Radeon 520 Windows 10,2.13,728,1
+36,a1793c26a96a83a1544300a431e62902,Dell Inspiron 5577 Gaming,Dell Inspiron 5577 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 128GB SSD + 1TB HDD Nvidia GeForce GTX 1050 Windows 10,2.56,1060.49,1
+37,aa5d0f143bd2e72e59977889279f2cf9,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i3 7100U 2.4GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.3,459,1
+38,8406b5a5a8f4b30bd4a9fcc89cca983f,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD + 2TB HDD AMD Radeon 530 Linux,2.02,1049,1
+39,8a099a7dd34305e8428ab48fca3fad79,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.23,1399,1
+40,cc91d2b941d4bcca4dd633ce4036b62e,Dell Inspiron 7773 Notebook,Dell Inspiron 7773 Notebook DDR2 17.3 Intel Core i7 8550U 1.8GHz 512GB SSD Nvidia GeForce 150MX Windows 10,2.77,1549,1
+41,292439569150831eb76a89ccd95d97c0,Dell XPS 15 Notebook,Dell XPS 15 Notebook DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 512GB SSD Nvidia GeForce GTX 1050 Windows 10,2.06,2397,1
+42,c243771d92e29acdeb46fb246cf2052e,Dell Inspiron 5770 Notebook,Dell Inspiron 5770 Notebook DDR2 17.3 Intel Core i7 8550U 1.8GHz 128GB SSD + 1TB HDD AMD Radeon 530 Windows 10,2.8,1085,1
+43,85ff97a7e5042497b092defeb4f1557e,Dell Inspiron 5379 2 in 1 Convertible,Dell Inspiron 5379 2 in 1 Convertible DDR2 13.3 Intel Core i7 8550U 1.8GHz 1TB HDD Intel UHD Graphics 620 Windows 10,1.62,839,1
+44,9069db92c464982f9c1c82d668ecd603,Dell Inspiron 7577 Gaming,Dell Inspiron 7577 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 512GB SSD + 1TB HDD Nvidia GeForce GTX 1060 Windows 10,2.65,1845,1
+45,c2d20c05566d8b9047bf0ab158fc499f,Dell Precision 7520 Workstation,Dell Precision 7520 Workstation DDR2 15.6 Intel Xeon E3-1505M V6 3GHz 256GB SSD + 1TB HDD Nvidia Quadro M1200 Windows 10,2.8,3055,1
+46,4dd473c291721eb18247991f22c25182,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i3 7100U 2.4GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.3,439,1
+47,d80f24a2d6d94055fa07a5f4ae81d7c8,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i7 8550U 1.8GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.21,1949,1
+48,b6d850e97cb0d0b03f3efdbafee541b1,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i7 8550U 1.8GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.2,1449,1
+49,406ce50d5ea33c0ad82f787f2697cc30,Dell Inspiron 5370 Ultrabook,Dell Inspiron 5370 Ultrabook DDR2 13.3 Intel Core i7 8550U 1.8GHz 256GB SSD AMD Radeon 530 Windows 10,1.4,931.88,1
+50,d97a81d04b9463ebced3488341e8df6a,Dell Latitude 5490 Ultrabook,Dell Latitude 5490 Ultrabook DDR2 14 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.6,1149,1
+51,f4d3330e05b15674aa1f2c5b4d044cd4,Dell Inspiron 5379 2 in 1 Convertible,Dell Inspiron 5379 2 in 1 Convertible DDR2 13.3 Intel Core i7 8550U 1.8GHz 512GB SSD Intel UHD Graphics 620 Windows 10,1.62,1279,1
+52,f31bfb4819c532127aa16ddf8760c57e,Dell Inspiron 3576 Notebook,Dell Inspiron 3576 Notebook DDR2 15.6 Intel Core i5 8250U 1.6GHz 256GB SSD AMD Radeon 520 Linux,2.2,677.35,1
+53,cd041984679cb9e226991b3da821b9ba,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 17.3 Intel Core i7 7700HQ 2.8GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1060 Windows 10,4.42,2456.34,1
+54,8b3ed216e8ea2a65feb8843e16e57217,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 1TB HDD AMD Radeon R7 M445 Windows 10,2.3,859.01,1
+55,3cdbb47eb172e3493578a8e34a03620b,Dell Vostro 5468 Notebook,Dell Vostro 5468 Notebook ? 14 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.6,859,1
+56,28542abffa52b9df26dfe23b900af606,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook ? 15.6 Intel Core i7 7500U 2.7GHz 256GB SSD AMD Radeon R7 M445 Linux,2.36,899,1
+57,ca60bfaf525369543188f03b98d5d75e,Dell Inspiron 5577 Gaming,Dell Inspiron 5577 Gaming DDR2 15.6 Intel Core i5 7300HQ 2.5GHz 256GB SSD Nvidia GeForce GTX 1050 Windows 10,2.56,879,1
+58,6a51377e5e107d734a0a8f7247fdcf3b,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 128GB SSD + 2TB HDD AMD Radeon 530 Windows 10,2.2,985,1
+59,eb1d8a6fc716e53ca19a1d75cdcd67ad,Dell Inspiron 5579 2 in 1 Convertible,Dell Inspiron 5579 2 in 1 Convertible DDR2 15.6 Intel Core i7 8550U 1.8GHz 1TB HDD Intel UHD Graphics 620 Windows 10,2.08,819,1
+60,b7fd8f1258a131e5e20066bc2560193e,Dell Vostro 5370 Ultrabook,Dell Vostro 5370 Ultrabook DDR2 13.3 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.41,949,1
+61,cde02efb5ef6d865d5cf0c2f2e6b3e44,Dell Inspiron 5770 Notebook,Dell Inspiron 5770 Notebook DDR2 17.3 Intel Core i7 8550U 1.8GHz 128GB SSD + 1TB HDD AMD Radeon 530 Windows 10,2.8,1142,1
+62,6dc471df2d6fcb0d46e8f042134ff4c6,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook ? 15.6 Intel Core i5 20U 2.5GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.18,657,1
+63,91952b716ba665cebf59c112c7250f57,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook ? 15.6 Intel Core i5 20U 2.5GHz 1TB HDD AMD Radeon R5 M430 Windows 10,2.24,565,1
+64,6d38858169064c8b7069a19c90dd0ae4,Dell Inspiron 5579 2 in 1 Convertible,Dell Inspiron 5579 2 in 1 Convertible ? 15.6 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,2.67,799,1
+65,4f41e104e3332ef045a90d8a294ffbd5,Dell Inspiron 3576 Notebook,Dell Inspiron 3576 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD AMD Radeon 520 Linux,2.14,735.07,1
+66,42ff187aa557c2def78a7aeb7c5a3d25,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.3,713.07,1
+67,3b9ed9c6566b4f6327b418d5eded459c,Dell Inspiron 5770 Notebook,Dell Inspiron 5770 Notebook DDR2 17.3 Intel Core i7 8550U 1.8GHz 128GB SSD + 1TB HDD AMD Radeon 530 Linux,2.8,1099,3
+68,b24cdf404d3a7505edcd35049aec46d1,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i3 6006U 2.0GHz 1TB HDD AMD Radeon R5 M430 Linux,2.25,428,2
+69,d49b828318fdd2a558f8009a4dddab7d,Dell XPS 15 Notebook,Dell XPS 15 Notebook ? 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD Nvidia GeForce GTX 1050 Windows 10,2,1829,1
+70,5d2cd71320b430ffc298dff178670639,Dell Precision 72 Workstation,Dell Precision 72 Workstation ? 17.3 Intel Core i7 7820HQ 2.9GHz 256GB SSD Nvidia Quadro M1200 Windows 10,3.42,2884.86,1
+71,104413c59fbe630a67af9bd1399a755c,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i7 8550U 1.8GHz 1TB SSD Intel UHD Graphics 620 Windows 10,1.21,2499,1
+72,63c6129ff357ce4f0d163e219323f82c,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook ? 15.6 Intel Core i5 8250U 1.6GHz 128GB SSD + 1TB HDD AMD Radeon 530 Windows 10,2.33,844,1
+73,ae3b5b98ce5d15302ca627ccd64d43bf,Dell XPS 15 Notebook,Dell XPS 15 Notebook ? 15.6 Intel Core i7 7700HQ 2.8GHz 1TB SSD Nvidia GeForce GTX 1050 Windows 10,2.06,2639,1
+74,5bef396827c8a7d0b2e1d0bdd698002b,Dell Inspiron 7570 Ultrabook,Dell Inspiron 7570 Ultrabook ? 15.6 Intel Core i5 8250U 1.6GHz 128GB SSD + 1TB HDD Nvidia GeForce 940MX Windows 10,1.9,1049,1
+75,8591e8c903be2fe00731c05aecc5fa96,Dell Inspiron 7570 Notebook,Dell Inspiron 7570 Notebook ? 15.6 Intel Core i5 8250U 1.6GHz 256GB SSD Nvidia GeForce 940MX Windows 10,2,1142.75,1
+76,7afbb7728b386f069ca24ecfdea13fdd,Dell Inspiron 3552 Notebook,Dell Inspiron 3552 Notebook DDR2 15.6 Intel Celeron Dual Core N3060 1.6GHz 500GB HDD Intel HD Graphics Linux,2.2,274.9,1
+77,74261d996d7ba2d8d7338d9d5f444289,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i7 8550U 1.8GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.2,1579,0
+78,a0ab6d26f3316848cdabb34aa091697b,Dell Latitude 5590 Ultrabook,Dell Latitude 5590 Ultrabook DDR2 15.6 Intel Core i7 8650U 1.9GHz 512GB SSD + 256GB SSD Intel UHD Graphics 620 Windows 10,1.88,1607.96,1
+79,443dffffe6264a6f2ca54a5e8084d775,Dell Inspiron 5570 Ultrabook,Dell Inspiron 5570 Ultrabook DDR2 15.6 Intel Core i5 8250U 1.6GHz 1TB HDD AMD Radeon 530 Windows 10,1.9,663,1
+80,ea790c8ff8e5cbdfebabdd43bdf4adf5,Dell XPS 15 Notebook,Dell XPS 15 Notebook DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 512GB SSD Nvidia GeForce GTX 1050 Windows 10,2.06,2027.42,1
+81,b68ad9cbd748c66fd3811ccee19a91ef,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 128GB SSD + 2TB HDD AMD Radeon 530 Windows 10,2.02,970.9,1
+82,a11d9462309527143094a0f68bce0a58,Dell Inspiron 7577 Gaming,Dell Inspiron 7577 Gaming DDR2 15.6 Intel Core i5 7300HQ 2.5GHz 1TB HDD Nvidia GeForce GTX 1050 Windows 10,2.65,999,1
+83,b2c24314887c92d7464a191f3c54de52,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 2TB HDD Intel HD Graphics 620 Windows 10,2.36,557.37,1
+84,10e74e9a2789a22f0ec2c123456edf67,Dell Latitude 7480 Notebook,Dell Latitude 7480 Notebook DDR2 14 Intel Core i5 7300U 2.6GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.36,1427,1
+85,8636a90d68d24c44934ef2ea51702f18,Dell Inspiron 5770 Notebook,Dell Inspiron 5770 Notebook DDR2 17.3 Intel Core i5 8250U 1.6GHz 128GB SSD + 1TB HDD AMD Radeon 530 Windows 10,2.8,1085,1
+86,a8dc69040cc0bb452c92cfe9bb57aa1c,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 256GB SSD AMD Radeon R7 M445 Windows 10,2.33,899,1
+87,1d6d1a47bc11a7549b994c0e8cbd8804,Dell Inspiron 5379 2 in 1 Convertible,Dell Inspiron 5379 2 in 1 Convertible DDR2 13.3 Intel Core i7 8550U 1.8GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.62,869.01,1
+88,5d26b156688b9fa271225dda74884def,Dell Inspiron 3552 Notebook,Dell Inspiron 3552 Notebook DDR2 15.6 Intel Celeron Dual Core N3060 1.60GHz 500GB HDD Intel HD Graphics 400 Windows 10,1.8,309,1
+89,891db9b404384c144c8f7821ec997c35,Dell Precision 3510 Workstation,Dell Precision 3510 Workstation DDR2 15.6 Intel Core i5 6440HQ 2.6GHz 500GB HDD AMD FirePro W5130M Windows 10,2.23,1369,1
+90,c2998ccb6be79d1166e19f9feefe7148,Dell Precision 5520 Workstation,Dell Precision 5520 Workstation DDR2 15.6 Intel Core i7 6820HQ 2.7GHz 256GB SSD Nvidia Quadro M1200 Windows 10,2,2135,1
+91,93c58d1e0750fd139519720eaf1aa3f0,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 256GB SSD AMD Radeon R7 M445 Linux,2.33,778.87,1
+92,0b2fbf8879eec6882103a84ada7d4565,Dell Precision M5520 Workstation,Dell Precision M5520 Workstation DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD Nvidia Quadro M1200 Windows 10,1.78,2712,1
+93,5310456a9c3fd0efcf88ac8879e43225,Dell Latitude 7480 Ultrabook,Dell Latitude 7480 Ultrabook DDR2 14 Intel Core i7 7600U 2.8GHz 512GB SSD Intel HD Graphics Windows 10,1.36,1680,1
+94,f4048423c6deb2143363d5e80aadfcf3,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 256GB SSD AMD Radeon R5 M430 Linux,2.3,598.9,1
+95,0bd20123abf8264c64c829fddefcd75f,Dell Latitude 3380 Notebook,Dell Latitude 3380 Notebook DDR2 13.3 Intel Core i3 6006U 2GHz 128GB SSD Intel HD Graphics 520 Windows 10,1.65,689,1
+96,fcde17872991aba2ecd1ab4b77df2a68,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.14,539.95,1
+97,df51712fc6d683d5af6630975898ed2b,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 17.3 Intel Core i7 7820HK 2.9GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.42,2799,1
+98,94b0ec323c8fcf4afa71657732e45edb,Dell Inspiron 7577 Gaming,Dell Inspiron 7577 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 128GB SSD + 1TB HDD Nvidia GeForce GTX 1050 Ti Windows 10,2.62,1159,1
+99,c48736364a0ff8ec30fb0cccfdebf63c,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD + 2TB HDD AMD Radeon 530 Windows 10,2.02,1142.4,1
+100,85d9f764da30a735bf30dc4494398c30,Dell Latitude 5480 Ultrabook,Dell Latitude 5480 Ultrabook DDR2 14 Intel Core i7 7600U 2.8GHz 256GB SSD Intel HD Graphics 620 Linux,1.6,1099,1
+101,754e9101ec37ebdf7dc3f44f74a6afe0,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i5 8250U 1.6GHz 256GB SSD AMD Radeon 530 Windows 10,2.2,749,1
+102,eba1c78f2ef43efce1a0b829de177fee,Dell Latitude 5480 Notebook,Dell Latitude 5480 Notebook DDR2 14 Intel Core i5 7440HQ 2.8GHz 256GB SSD Nvidia GeForce 930MX Windows 10,1.64,1179,1
+103,37ed1450d4e14d6f886b36e6ce7305eb,Dell Precision 3520 Workstation,Dell Precision 3520 Workstation DDR2 15.6 Intel Xeon E3-1505M V6 3GHz 64GB Flash Storage + 1TB HDD Nvidia Quadro M620 Windows 10,2.23,1993,1
+104,f4c61a5053a6a67652a5e28906640b22,Dell Precision 3520 Workstation,Dell Precision 3520 Workstation DDR2 15.6 Intel Core i7 6820HQ 2.7GHz 256GB SSD Nvidia Quadro M620 Windows 10,2.17,1975,1
+105,0edbfd34ef79ed168a66ff581debbcb1,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 128GB SSD + 1TB HDD AMD Radeon 530 Windows 10,2.36,979,1
+106,0ab94c7124b3daaf3ea13b24384b6e39,Dell Inspiron 3168 2 in 1 Convertible,Dell Inspiron 3168 2 in 1 Convertible DDR2 11.6 Intel Pentium Quad Core N3710 1.6GHz 500GB HDD Intel HD Graphics 405 Windows 10,1.47,479,1
+107,25b717ae71c8f05f08aaa053dec0cb1d,Dell Alienware 17 Notebook,Dell Alienware 17 Notebook DDR2 17.3 Intel Core i7 7700HQ 2.7GHz 1TB HDD Nvidia GeForce GTX 1060 Windows 10,4.42,2046,1
+108,46df1381b7dccff517a272bdb4b727e5,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i5 8250U 1.6GHz 2TB HDD AMD Radeon 530 Windows 10,2.02,759,1
+109,ce8029f5d8f4a4e0f99ae6187fae74b5,Dell Latitude 7390 Ultrabook,Dell Latitude 7390 Ultrabook DDR2 13.3 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.42,1841.85,1
+110,d873563f5b73b6fddca1319aabdf9cfe,Dell Latitude E5470 Notebook,Dell Latitude E5470 Notebook DDR2 14 Intel Core i3 6100U 2.3GHz 128GB SSD Intel HD Graphics 520 Windows 10,1.79,740,3
+111,c7ea595dbeefc0032ef277165dfedbf2,Dell Precision M5520 Workstation,Dell Precision M5520 Workstation DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD Nvidia Quadro M1200 Windows 10,1.78,2408,1
+112,5bd7f6269757f25f811ddfaac9306226,Dell Inspiron 3576 Notebook,Dell Inspiron 3576 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i5 8250U 1.6GHz 1TB HDD AMD Radeon 520 Windows 10,2.2,675,1
+113,f0862e368c886e083214bd0bda2733fc,Dell Inspiron 7570 Notebook,Dell Inspiron 7570 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i7 8550U 1.8GHz 512GB SSD Nvidia GeForce 940MX Windows 10,2.16,1262,1
+114,a8f94130b00d8d15fdace9c10fff3143,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook SDRAM 15.6 Intel Core i3 7100U 2.4GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.18,586.6,1
+115,fc25ef8a945024e9559e52680ed8a802,Dell Precision 3520 Workstation,Dell Precision 3520 Workstation DDR-SDRAM_(DDRRAM) 15.6 Intel Core i7 6820HQ 2.7GHz 512GB SSD Nvidia Quadro M620 Windows 10,2.17,2338,1
+116,b3a3b18773657261a7fdf8c76a706d40,Dell XPS 15 Notebook,Dell XPS 15 Notebook DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 512GB SSD Nvidia GeForce GTX 1050 Windows 10,2.06,1899,1
+117,6123f7fee209374d6b62d0acf25c28c7,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR-SDRAM_(DDRRAM) 13.3 Intel Core i5 20U 2.5GHz 128GB SSD Intel HD Graphics 620 Windows 10,1.29,899,1
+118,0fb96877db60e45d40ce700526c786c6,Dell Vostro 5568 Notebook,Dell Vostro 5568 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i5 20U 2.5GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.18,836,1
+119,8d854df67a7d2cfcee3426051b26aa93,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD + 2TB HDD AMD Radeon 530 Windows 10,2.2,1219.24,1
+120,d74cd8ac495b66c6a89a62d9a7f90c7b,Dell Latitude 5480 Notebook,Dell Latitude 5480 Notebook DDR2 14 Intel Core i5 7300U 2.6GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.64,1279.73,1
+121,83e1df7906eaa2373b7d8d0c825046a7,Dell Inspiron 5770 Notebook,Dell Inspiron 5770 Notebook DDR2 17.3 Intel Core i5 8250U 1.6GHz 128GB SSD + 1TB HDD AMD Radeon 530 Linux,2.8,889,1
+122,a849de4958fcf81230d956e8991ac7c5,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 500GB HDD AMD Radeon R5 M430 Windows 10,2.3,585,1
+123,c881b55fb556457eb6c4d83537d702be,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i5 7440HQ 2.8GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.9,1377,1
+124,92450364e622ad81cbb50ebae1157e68,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 17.3 Intel Core i7 7700HQ 2.8GHz 128GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.42,3012.77,1
+125,74793917046a36f292036ccd256993cc,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i7 7600U 2.8GHz 256GB SSD Nvidia GeForce 930MX Windows 10,1.93,1369,1
+126,f1a2c4a6317e54e9c76377c79eb35201,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i5 8250U 1.6GHz 256GB SSD AMD Radeon 530 Windows 10,2.2,797.41,1
+127,aade3ca10a67c48547cb7321a8bfdff2,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR-SDRAM_(DDRRAM) 13.3 Intel Core i7 8550U 1.8GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.2,1399,1
+128,4b77ea4b37f80f95958af3fa2eb2b300,Dell Vostro 5468 Notebook,Dell Vostro 5468 Notebook DDR2 14 Intel Core i3 6006U 2GHz 128GB SSD Intel HD Graphics 520 Windows 10,1.6,735.87,1
+129,43cd68313ad1554b93f6384cfa0c1ce0,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR-SDRAM_(DDRRAM) 15.6 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.9,1116.99,1
+130,556d2fda7ee6b66818e3f31fd54f43a5,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 17.3 Intel Core i7 7700HQ 2.8GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.42,2699,1
+131,9bb9ad66025e751bdb6fbc2b88483726,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook DDR2 15.6 Intel Core i3 6006U 2GHz 1TB HDD AMD Radeon R5 M420 Windows 10,2.18,617.9,2
+132,992400c7cac86772801a85d109cde9f0,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook ? 13.3 Intel Core i5 8250U 1.6GHz 128GB SSD Intel UHD Graphics 620 Windows 10,1.21,1599,1
+133,d62b181f28e36fafe787b890ae215a9e,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR2 15.6 Intel Core i5 7300U 2.6GHz 500GB HDD Intel HD Graphics 620 Windows 10,1.93,959,1
+134,2e294ff92299c1a5a4de339e01d213e7,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 256GB SSD AMD Radeon R5 M430 Linux,2.2,749.01,1
+135,ed104e45872869f2e5d24cc814812e23,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR2 15.6 Intel Core i5 7300U 2.6GHz 500GB HDD Intel HD Graphics 620 Windows 10,1.9,1008.52,1
+136,4c972f9d7df35c7c3c2fb3ef9f69b678,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR2 15.6 Intel Core i7 7600U 2.8GHz 256GB SSD Nvidia GeForce 930MX Windows 10,1.93,1537.39,1
+137,7d223d7689e145d8d69392167b122a13,Dell Chromebook 11 Netbook,Dell Chromebook 11 Netbook DDR2 11.6 Intel Celeron Dual Core N3060 1.6GHz 16GB Flash Storage Intel HD Graphics 400 Chrome OS,1.26,295,1
+138,a7f78ae6d123b12bd9285d3425076cce,Dell Inspiron 3179 2 in 1 Convertible,Dell Inspiron 3179 2 in 1 Convertible DDR2 11.6 Intel Core M 7Y30 1.0GHz 128GB SSD Intel HD Graphics 615 Windows 10,1.39,603,1
+139,af52cdd7cde02264eeb511188b53ec09,Dell Latitude 5289 2 in 1 Convertible,Dell Latitude 5289 2 in 1 Convertible DDR2 12.5 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.34,1670,1
+140,5db081f76b3b00864df00ce5575bb4d9,Dell Precision 3520 Workstation,Dell Precision 3520 Workstation DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD Nvidia Quadro M620 Windows 10,2.06,1763,1
+141,d9128b943775533a855a2457eb1e3401,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook DDR2 15.6 Intel Core i3 6006U 2GHz 1TB HDD AMD Radeon R5 M420 Linux,2.18,465,1
+142,892cac2d4cd163b5a93bf10620269b6e,Dell Inspiron 7559 Gaming,Dell Inspiron 7559 Gaming DDR2 15.6 Intel Core i7 6700HQ 2.6GHz 1TB HDD Nvidia GeForce GTX 960<U+039C> Windows 10,2.59,879.01,1
+143,b69d5e6261edae26ffcbfb933d0c7770,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook DDR2 15.6 Intel Core i3 6006U 2.0GHz 1TB HDD Intel HD Graphics 520 Linux,2.18,443.9,1
+144,e4ff4216066d05b063e8d868c67a590f,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i3 6006U 2.0GHz 1TB HDD Intel HD Graphics 520 Linux,2.25,359,1
+145,97d5f489e7284c6b8fb5996353107899,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR2 15.6 Intel Core i5 7300U 2.6GHz 500GB HDD Intel HD Graphics 620 Linux,1.93,869,1
+146,afedde0dbe30970c5d3a2bf163b5c4c9,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 128GB SSD AMD Radeon R5 M420 Linux,2.18,569,1
+147,4b3004d478df7f1f4428cf2ad430f6df,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i5 8250U 1.6GHz 1TB HDD AMD Radeon 530 Windows 10,2.2,776,1
+148,bdc23cf547750e638698fcef24d843ae,Dell XPS 15 Notebook,Dell XPS 15 Notebook DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD Nvidia GeForce GTX 1050 Windows 10,2,1820,1
+149,68e0097b8cfb244218c2d73898686033,Dell Inspiron 7567 Gaming,Dell Inspiron 7567 Gaming DDR-SDRAM_(DDRRAM) 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1050 Ti Windows 10,2.62,1479,1
+150,20d8e5c78cfee1d2b9862bf1d0e5fe37,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.23,1869,1
+151,eff4ac46812019e9b1f4490f9a27514f,Dell XPS 15 Notebook,Dell XPS 15 Notebook DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 1TB SSD Nvidia GeForce GTX 1050 Windows 10,2.06,2399,1
+152,77a47aef2b037eb54e21705b6d9c6036,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i5 8250U 1.6GHz 256GB SSD Intel UHD Graphics 620 Windows 10,1.2,1449.9,2
+153,1ba3bb6855958551930140accecfbe30,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD AMD Radeon 530 Windows 10,2.2,919,1
+154,e62e033094221892fb6caefbbf81397f,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i7 8550U 1.8GHz 256GB SSD + 2TB HDD AMD Radeon 530 Windows 10,2.2,1135,1
+155,c9f38149cd0c59576905c321b265103a,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 17.3 Intel Core i7 7700HQ 2.8GHz 512GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.42,3147.37,1
+156,5caaf089f37595fdc5333946fcd0c56e,Dell Latitude E7470 Notebook,Dell Latitude E7470 Notebook DDR2 14 Intel Core i5 6300U 2.4GHz 256GB SSD Intel HD Graphics 520 Windows 10,1.56,1229,3
+157,dce35ecf2cbbc21cf2ecb80a5d1bd25b,Dell Latitude 3580 Notebook,Dell Latitude 3580 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.06,955,3
+158,27633cffdf413fc07e6849da45f9d3e6,Dell Alienware 15 Gaming,Dell Alienware 15 Gaming DDR2 15.6 Intel Core i5 7300HQ 2.5GHz 128GB SSD + 1TB HDD Nvidia GeForce GTX 1060 Windows 10,3.21,2051,1
+159,41fe68f3332ef5ff294535579043f733,Dell Alienware 15 Gaming,Dell Alienware 15 Gaming DDR2 15.6 Intel Core i7 7820HK 2.9GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,3.49,2813.75,3
+160,999829f079b1c0ede0eeb1470b018921,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i3 6006U 2GHz 1TB HDD AMD Radeon R5 M430 Windows 10,2.2,545.67,3
+161,1952b686e7dbbdce310bb111a9f02683,Dell Inspiron 5577 Gaming,Dell Inspiron 5577 Gaming DDR2 15.6 Intel Core i5 7300HQ 2.5GHz 1TB HDD Nvidia GeForce GTX 1050 Windows 10,2.56,819,1
+162,a0752a488f655852eba37d94b2df41a0,Dell Vostro 5568 Notebook,Dell Vostro 5568 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics 620 Windows 10,2.18,795,3
+163,1f0b63f41d6e271f170dd1372f6b3032,Dell Latitude 5480 Notebook,Dell Latitude 5480 Notebook DDR2 14 Intel Core i5 7440HQ 2.8GHz 256GB SSD Nvidia GeForce 930MX Linux,1.64,1089,3
+164,ca04e499ad2209fc552cfe9c0f1159a8,Dell Vostro 5568 Notebook,Dell Vostro 5568 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 1TB HDD Intel HD Graphics 620 Linux,1.98,726,3
+165,e329aca09247a5959f1980d6ab66ad1c,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR2 15.6 Intel Core i5 7300U 2.6GHz 512GB SSD Intel HD Graphics 620 Windows 10,1.93,1426.66,3
+166,6548d83873381e40960908ea1ba9e38b,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook DDR2 15.6 Intel Core i5 7300U 2.6GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.9,1179,3
+167,fdd8daf07ddd4a23832f3da7d209252f,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 17.3 Intel Core i7 7700HQ 2.8GHz 1TB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.36,19.4,1
+168,1f25e0968f5ab9451c985211bdfe4e27,Dell Inspiron 5570 Notebook,Dell Inspiron 5570 Notebook DDR2 15.6 Intel Core i5 8250U 1.6GHz 128GB SSD + 1TB HDD AMD Radeon 530 Windows 10,2.2,719,3
+169,a9120f43a7645d15d502315dd97c640b,Dell Inspiron 5378 2 in 1 Convertible,Dell Inspiron 5378 2 in 1 Convertible DDR2 13.3 Intel Core i3 7100U 2.4GHz 1TB HDD Intel HD Graphics 620 Windows 10,1.71,649,1
+170,6f12ed34925f9493750ec9bff68acca2,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 1TB HDD AMD Radeon R7 M445 Linux,2.32,589.52,3
+171,001ea8215e519a8388c1f1574662550e,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.25,649,3
+172,36d9422869af3d53fbb444a2db92db5f,Dell Inspiron 5379 2 in 1 Convertible,Dell Inspiron 5379 2 in 1 Convertible DDR-SDRAM_(DDRRAM) 13.3 Intel Core i5 8250U 1.6GHz 1TB HDD Intel UHD Graphics 620 Windows 10,1.55,659,3
+173,563ae1d1b23568590c037dcf2a4cf920,Dell Inspiron 7560 Notebook,Dell Inspiron 7560 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 128GB SSD + 1TB HDD Nvidia GeForce 940MX Windows 10,2,1207,1
+174,704f447c29102b5abaf9eed84c18010c,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook DDR2 15.6 Intel Core i3 6006U 2GHz 256GB SSD Intel HD Graphics 520 Windows 10,2,665,1
+175,5c13c9238f828757bbf3e4e8490c5779,Dell Latitude 5480 Notebook,Dell Latitude 5480 Notebook DDR2 14 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.6,1126.71,1
+176,63364f20856c8a990860acdf5d449781,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.42,2868.99,1
+177,ce9fd24e5a2b750d26c861da26ca283c,Dell Latitude 7280 Ultrabook,Dell Latitude 7280 Ultrabook DDR2 12.5 Intel Core i7 7600U 2.8GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.18,1859,1
+178,bd3c1a4e6625e068bedaac904581d1dc,Dell Latitude 3380 Notebook,Dell Latitude 3380 Notebook DDR2 13.3 Intel Core i3 6006U 2GHz 500GB HDD Intel HD Graphics 520 Windows 10,1.65,849,1
+179,df848a17111cb1f2adbe0d2ddf7fdc49,Dell Inspiron 7559 Gaming,Dell Inspiron 7559 Gaming DDR2 15.6 Intel Core i7 6700HQ 2.6GHz 128GB SSD + 1TB HDD Nvidia GeForce GTX 960M Windows 10,2.72,1099,1
+180,d7098648e3572010c607138d09906a70,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 256GB SSD AMD Radeon R7 M445 Windows 10,2.3,1181.27,1
+181,e2baa87b9a39e6f40f55b72695c3b08f,Dell Inspiron 7567 Gaming,Dell Inspiron 7567 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 1TB HDD Nvidia GeForce GTX 1050 Windows 10,2.62,1099,1
+182,290b4c3bff96e538e6d0750c7656cda8,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 17.3 Intel Core i7 7700HQ 2.8GHz 1TB SSD + 1TB HDD Nvidia GeForce GTX 1070M Windows 10,4.42,3588.8,1
+183,59db9b2b8b0bc67105a8fa2c958386db,Dell Inspiron 7567 Gaming,Dell Inspiron 7567 Gaming DDR2 15.6 Intel Core i5 7300HQ 2.5GHz 256GB SSD Nvidia GeForce GTX 1050 Windows 10,2.62,985,1
+184,84fb43b933850dc05e57a162c5ba1702,Dell Latitude 3580 Notebook,Dell Latitude 3580 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 128GB SSD Intel HD Graphics 620 Windows 10,1.95,810,1
+185,39887c2739efaea41c8ff64b2bcf5a05,Dell Vostro 5568 Notebook,Dell Vostro 5568 Notebook DDR2 15.6 Intel Core i3 6006U 2GHz 256GB SSD AMD Radeon R5 M420X Windows 10,2,739,1
+186,16643516084cbe67f8a238a8b02f7287,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook DDR2 13.3 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.29,1499,1
+187,cd9a44f70a3b4d88370a70f1d436af41,Dell XPS 15 Notebook,Dell XPS 15 Notebook DDR2 15.6 Intel Core i5 7300HQ 2.5GHz 256GB SSD Nvidia GeForce GTX 1050 Windows 10,2.06,1749,1
+188,13a9b31c88f9eb8b19c949980de5a5aa,Dell Latitude 3180 Netbook,Dell Latitude 3180 Netbook DDR2 11.6 Intel Pentium Quad Core N4200 1.1GHz 128GB SSD Intel HD Graphics 505 Windows 10,1.63,744,1
+189,dac7268ed3332f952d2f68e90a722005,Dell Inspiron 7567 Gaming,Dell Inspiron 7567 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 512GB SSD Nvidia GeForce GTX 1050 Ti Windows 10,2.62,1679,1
+190,4b64df884b56adb12adf150210014b55,Dell Vostro 5568 Notebook,Dell Vostro 5568 Notebook DDR2 15.6 Intel Core i7 7500U 2.7GHz 1TB HDD Nvidia GeForce GT 940MX Windows 10,1.98,961,1
+191,a06a272fa6f90439b2667c2397577d1a,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook DDR2 15.6 Intel Core i5 20U 2.5GHz 256GB SSD AMD Radeon R5 M420 Windows 10,2.18,789.81,1
+192,4dd0765795a35d8f6250da5d56dce607,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming DDR2 17.3 Intel Core i7 7700HQ 2.8GHz 128GB SSD + 1TB HDD Nvidia GeForce GTX 1060 Windows 10,4.36,2505.02,1
+193,1722dc7993e15fa6e2007b898df1a1ae,Dell Latitude 3480 Notebook,Dell Latitude 3480 Notebook DDR-SDRAM_(DDRRAM) 14 Intel Core i5 6200U 2.3GHz 500GB HDD Intel HD Graphics 520 Windows 10,1.76,755,3
+194,514378d28d95b71ea2d446219b51a4c9,Dell Latitude 3480 Notebook,Dell Latitude 3480 Notebook DDR2 14 Intel Core i3 6006U 2GHz 500GB HDD Intel HD Graphics 520 Windows 10,1.76,585,1
+195,9f219b0c11fa3a6e4775f55cd8f7bfb2,Dell Alienware 15 Gaming,Dell Alienware 15 Gaming DDR2 15.6 Intel Core i7 7700HQ 2.8GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,3.21,2774.63,1
+196,542323a94c027844d1bc9e233426cdfc,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming  17.3 Intel Core i7 7700HQ 2.8GHz 512GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.42,3072.89,
+197,698082240a32748151cc4ae387ad68bf,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook  15.6 Intel Core i5 20U 2.5GHz 128GB SSD Intel HD Graphics 620 Windows 10,2.18,713.99,
+198,8154e84341a41ba44c1979e6f6c37452,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook  15.6 Intel Core i7 7500U 2.7GHz 256GB SSD AMD Radeon R5 M420 Windows 10,2.18,739,
+199,895d56b6df94593a1c06b44b388dbbc4,Dell Inspiron 5767 Notebook,Dell Inspiron 5767 Notebook  17.3 Intel Core i7 7500U 2.7GHz 1TB HDD AMD Radeon R7 M445 Linux,2.83,865,
+200,2c05aa6dd0cd98a17e9b479e864ce72d,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook  15.6 Intel Core i5 20U 2.5GHz 128GB SSD Intel HD Graphics 620 Windows 10,1.9,945,
+201,70f736c95aec58fad1d62b178f5dab32,Dell Inspiron 5368 Notebook,Dell Inspiron 5368 Notebook  13.3 Intel Core i5 6200U 2.3GHz 1TB HDD Intel HD Graphics 520 Windows 10,1.62,649,
+202,97161ffe82d6bd9c701229fcdcc347b5,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook  13.3 Intel Core i7 7660U 2.5GHz 512GB SSD Intel Iris Plus Graphics 640 Windows 10,1.29,2240,
+203,82d6de2993fa037d25d5c72ebe3d3243,Dell Precision 3520 Workstation,Dell Precision 3520 Workstation  15.6 Intel Core i7 7700HQ 2.8GHz 1TB HDD Nvidia Quadro M620 Windows 10,2.23,1778,
+204,27006457c5a1578ed9d45ff737055656,Dell Latitude 7280 Ultrabook,Dell Latitude 7280 Ultrabook  12.5 Intel Core i7 7600U 2.8GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.6,1690,
+205,949fecfddf19be861707825572c4fd42,Dell Vostro 5568 Notebook,Dell Vostro 5568 Notebook  15.6 Intel Core i5 20U 2.5GHz 128GB SSD + 1TB HDD Nvidia GeForce 940MX Windows 10,2.18,912.5,
+206,07ad500243385f87158e5528b69d8095,Dell Inspiron 3552 Notebook,Dell Inspiron 3552 Notebook  15.6 Intel Pentium Quad Core N3710 1.6GHz 500GB HDD Intel HD Graphics Windows 10,2.2,369,
+207,3188e0840a1e0b3b878b6b9267f3b643,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook  15.6 Intel Core i3 6006U 2.0GHz 1TB HDD AMD Radeon R5 M420X Linux,2.18,455.7,
+208,9952053dcd6dc43d321a85127afc4051,Dell Inspiron 7567 Gaming,Dell Inspiron 7567 Gaming  15.6 Intel Core i7 7700HQ 2.8GHz 1TB HDD Nvidia GeForce GTX 1050Ti Linux,2.62,929,
+209,96494cc882772ae0ab689f6701cd7adc,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook  15.6 Intel Core i3 6006U 2.0GHz 1TB HDD AMD Radeon R5 M420X Windows 10,2.18,614,
+210,fc4480d52c4b444b5325aca80de1152c,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook  15.6 Intel Core i5 7300U 2.6GHz 500GB HDD Intel HD Graphics 620 Windows 10,1.9,935,
+211,33839ee182ea6d04c847dcd280cf32b7,Dell XPS 13 2 in 1 Convertible,Dell XPS 13 2 in 1 Convertible  13.3 Intel Core i7 7Y75 1.3GHz 512GB SSD Intel HD Graphics 615 Windows 10,1.24,2013.1,
+212,ed40b96bb7ee7a0586c0e1461ebd72fe,Dell XPS 13 2 in 1 Convertible,Dell XPS 13 2 in 1 Convertible  13.3 Intel Core i7 7Y75 1.3GHz 256GB SSD Intel HD Graphics 615 Windows 10,1.22,1649,
+213,b2c883392130b5c0c2bf6c5caaaff0d9,Dell Latitude 5480 Notebook,Dell Latitude 5480 Notebook  14 Intel Core i5 7440HQ 2.8GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.6,1205,
+214,0b85b52c3c7867204d3f4bb460725a48,Dell Inspiron 7567 Gaming,Dell Inspiron 7567 Gaming  15.6 Intel Core i7 7700HQ 2.8GHz 128GB SSD + 1TB HDD Nvidia GeForce GTX 1050 Ti Windows 10,2.6,1349,
+215,74127b66edaeae96f9f8fb8e2128acf4,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook  15.6 Intel Core i5 20U 2.5GHz 1TB HDD AMD Radeon R5 M420 Windows 10,2.18,684.99,
+216,bbdcf06ce9c516469c52de2296a340f2,Dell Latitude 3580 Notebook,Dell Latitude 3580 Notebook  15.6 Intel Core i5 6200U 2.3GHz 500GB HDD Intel HD Graphics 520 Windows 10,1.95,729.9,
+217,67e15b8448411e7979e97815894e194d,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook  15.6 Intel Core i5 20U 2.5GHz 1TB HDD Intel HD Graphics 620 Windows 10,2.18,708.06,
+218,f2580bcf05694d26e1725bc11d1464ad,Dell Vostro 3568 Notebook,Dell Vostro 3568 Notebook  15.6 Intel Core i3 6006U 2.0GHz 1TB HDD Intel HD Graphics 520 Windows 10,2.18,558.6,
+219,e78de010a6f6d5fbe6c9f6de3bc2247d,Dell Latitude 7480 Ultrabook,Dell Latitude 7480 Ultrabook  14 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.36,1639,
+220,79e3041db1ebd4fdd038c9d2cf0ef04e,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming  17.3 Intel Core i7 6820HK 2.7GHz 512GB SSD + 1TB HDD Nvidia GeForce GTX 1080 Windows 10,4.36,2758,
+221,3faff4d14cfff86305b80201b1ace0db,Dell Latitude 7280 Ultrabook,Dell Latitude 7280 Ultrabook  12.5 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics Windows 10,1.36,1472.2,
+222,46e17f2156a4634f7c77774279c90cad,Dell Insprion 5767 Notebook,Dell Insprion 5767 Notebook  17.3 Intel Core i3 6006U 2.0GHz 1TB HDD AMD Radeon R7 M445 Windows 10,2.36,659,
+223,fd71391871b94ead84733bc272dd5886,Dell Latitude 7480 Ultrabook,Dell Latitude 7480 Ultrabook  14 Intel Core i7 7600U 2.8GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.36,1775,
+224,29b2140b891dfb955af3d84f27dd74f9,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming  17.3 Intel Core i7 7700HQ 2.8GHz 512GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.36,3154,
+225,d36766dad65a23944abc11a4c16b3577,Dell XPS 13 2 in 1 Convertible,Dell XPS 13 2 in 1 Convertible  13.3 Intel Core i5 7Y54 1.2GHz 256GB SSD Intel HD Graphics 615 Windows 10,1.24,1899,
+226,473f3b4baadf9bb5d4748f2f27887e00,Dell XPS 13 Ultrabook,Dell XPS 13 Ultrabook  13.3 Intel Core i7 6500U 2.5GHz 256GB SSD Intel HD Graphics 520 Windows 10,1.3,1268,
+227,99da793d9f8a083c04df9911ceb60715,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook  15.6 Intel Core i3 6006U 2.0GHz 1TB HDD AMD Radeon R5 M430 Linux,2.25,465.62,
+228,067feff8d867690cd1e496a645a88516,Dell Latitude 5580 Notebook,Dell Latitude 5580 Notebook  15.6 Intel Core i5 20U 2.5GHz 500GB HDD Intel HD Graphics 620 Windows 10,1.9,825,
+229,2244b6a3a3c80cf3d148eb7b09d0e193,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming  17.3 Intel Core i7 7700HQ 2.8GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.42,3149,
+230,e87dd1fcbb133c80b2c89687e8edf739,Dell XPS 13 2 in 1 Convertible,Dell XPS 13 2 in 1 Convertible  13.3 Intel Core i7 7Y75 1.3GHz 512GB SSD Intel HD Graphics 615 Windows 10,1.22,1899,
+231,25a1fcc6db40f86566c5f2d902407b15,Dell Latitude E7470 Ultrabook,Dell Latitude E7470 Ultrabook  14 Intel Core i7 6600U 2.6GHz 256GB SSD Intel HD Graphics 520 Windows 10,1.5,1962.98,
+232,80b61d90b88b9751fe83776533e8ea2b,Dell Alienware 17 Gaming,Dell Alienware 17 Gaming  17.3 Intel Core i7 6700HQ 2.6GHz 256GB SSD + 1TB HDD Nvidia GeForce GTX 1070 Windows 10,4.42,2800,
+233,45a3eeaba75bd329f67fc26638ec19e8,Dell Inspiron 7579 2 in 1 Convertible,Dell Inspiron 7579 2 in 1 Convertible  15.6 Intel Core i7 7500U 2.7GHz 512GB SSD Intel HD Graphics 620 Windows 10,2.19,1299,
+234,0cd25752c56def154e9919e71217031f,Dell Inspiron 3567 Notebook,Dell Inspiron 3567 Notebook  15.6 Intel Core i5 20U 2.5GHz 500GB HDD AMD Radeon R5 M430 Windows 10,2.25,599,
+235,2f151b429b2fd57d8ae42c98c873b37e,Dell Inspiron 5567 Notebook,Dell Inspiron 5567 Notebook  15.6 Intel Core i7 7500U 2.7GHz 1TB HDD AMD Radeon R7 M445 Windows 10,2.36,749,
+236,2f67e558a184ce6d21407966c51a85b6,Dell Latitude 5480 Notebook,Dell Latitude 5480 Notebook  14 Intel Core i5 20U 2.5GHz 128GB SSD Intel HD Graphics 620 Windows 10,1.6,1119,
+237,efc9a9dbb1aef23874149134c2993b68,Dell Inspiron 5378 2 in 1 Convertible,Dell Inspiron 5378 2 in 1 Convertible  13.3 Intel Core i5 20U 2.5GHz 256GB SSD Intel HD Graphics 620 Windows 10,1.68,889,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
